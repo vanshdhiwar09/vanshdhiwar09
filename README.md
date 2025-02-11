@@ -19,7 +19,7 @@ I'm a **B.Sc. Computer Science** student passionate about technology, problem-so
 I'm currently exploring **Google Summer of Code (GSoC)** and actively learning how to contribute to open-source projects. Feel free to connect if you're on the same journey!
 
 ## 📫 Let's Connect!
-💼 [LinkedIn](#) | 🌐 [Portfolio](#) | ✉️ [Email](#)
+💼 [https://x.com/VanshDhiwar9](#)  ✉️ [vansh.dhiwar985@gmail.com](#)
 
 Feel free to explore my repositories, contribute, or reach out for collaboration! 🚀
 
